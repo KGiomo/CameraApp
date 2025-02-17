@@ -13,6 +13,9 @@ import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
+//data creazione : 14/03/2022
+//ultima modifica: 17/03/2022
+
 private val PERMISSION_CODE = 1000;
 private val IMAGE_CAPTURE_CODE = 1001;
 var image_uri: Uri? = null
